@@ -6,9 +6,11 @@ Changelog
 
 - Nothing changed yet.
 
-
 2.1.3.cirb (2013-01-30)
 -----------------------
+- Add formatting for nl language 
+  [smoussiaux]
+
 - Fixed error in javascript when trying to destroy a dialog box that has not been initialized.
   [fmoret]
 
