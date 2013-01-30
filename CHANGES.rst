@@ -1,8 +1,8 @@
 Changelog
 =========
 
-2.1.3 (unreleased)
-------------------
+2.1.3.cirb (2013-01-30)
+-----------------------
 - Fixed error in javascript when trying to destroy a dialog box that has not been initialized.
   [fmoret]
 
